@@ -1,0 +1,11 @@
+elasticsearch:
+  address: "http://10.138.0.2:9200"
+  username: "Abi"
+  password: "workspace"
+
+gcs:
+  bucket: "abigail-bucket"
+  
+
+token:
+  secret: "secret"
