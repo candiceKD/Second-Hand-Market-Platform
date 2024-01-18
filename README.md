@@ -1,2 +1,13 @@
-![Demo](https://github.com/candiceKD/Second-Hand-Market-Platform/assets/144402516/d2d55d4e-93c2-4844-9199-05e4ddaf828c)
-# Second-Hand-Market-Platform
+# Second-Hand-Market-App-Frontend
+
+Frontend repository for LaiOffer's project
+
+- Use `npm install all` for package installing
+
+**Instructions used** (`npm install all` should be enough)
+
+- `npm add antd@4` ant design
+
+- `npm add react-router-dom` router for multipages
+
+- `npm add react-map-gl mapbox-gl @types/mapbox-gl` react mapbox
